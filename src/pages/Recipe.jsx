@@ -50,7 +50,7 @@ function Recipe() {
 							}}
 						></h3>
 					</div>
-				)}{" "}
+				)}
 				{activeTab === "ingredients" && (
 					<ul>
 						{details.extendedIngredients.map((ingredient) => (
