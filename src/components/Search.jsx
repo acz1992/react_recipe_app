@@ -28,7 +28,7 @@ function Search() {
 }
 
 const FormStyle = styled.form`
-	margin: 0 2rem;
+	margin: 0 20rem;
 
 	div {
 		width: 100%;
