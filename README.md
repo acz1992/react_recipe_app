@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Recipe App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Mission
 
-https://www.youtube.com/watch?v=xc4uOzlndAk 1.45.28
+-   Discover new recipes based on set criteria
+-   Practice fetching and rendering data from APIs
+-   Create dynamic pages that conditionally render content based on a toggle button
+-   Use Framer Motion to animate interfaces
 
 ## To Do:
 
